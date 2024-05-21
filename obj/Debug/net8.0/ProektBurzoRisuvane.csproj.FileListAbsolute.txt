@@ -1,0 +1,14 @@
+C:\Users\mitid\source\repos\ProektBurzoRisuvane\ProektBurzoRisuvane\obj\Debug\net8.0\ProektBurzoRisuvane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitid\source\repos\ProektBurzoRisuvane\ProektBurzoRisuvane\obj\Debug\net8.0\ProektBurzoRisuvane.AssemblyInfoInputs.cache
+C:\Users\mitid\source\repos\ProektBurzoRisuvane\ProektBurzoRisuvane\obj\Debug\net8.0\ProektBurzoRisuvane.AssemblyInfo.cs
+C:\Users\mitid\source\repos\ProektBurzoRisuvane\ProektBurzoRisuvane\obj\Debug\net8.0\ProektBurzoRisuvane.csproj.CoreCompileInputs.cache
+C:\Users\mitid\source\repos\ProektBurzoRisuvane\ProektBurzoRisuvane\bin\Debug\net8.0\ProektBurzoRisuvane.exe
+C:\Users\mitid\source\repos\ProektBurzoRisuvane\ProektBurzoRisuvane\bin\Debug\net8.0\ProektBurzoRisuvane.deps.json
+C:\Users\mitid\source\repos\ProektBurzoRisuvane\ProektBurzoRisuvane\bin\Debug\net8.0\ProektBurzoRisuvane.runtimeconfig.json
+C:\Users\mitid\source\repos\ProektBurzoRisuvane\ProektBurzoRisuvane\bin\Debug\net8.0\ProektBurzoRisuvane.dll
+C:\Users\mitid\source\repos\ProektBurzoRisuvane\ProektBurzoRisuvane\bin\Debug\net8.0\ProektBurzoRisuvane.pdb
+C:\Users\mitid\source\repos\ProektBurzoRisuvane\ProektBurzoRisuvane\obj\Debug\net8.0\ProektBurzoRisuvane.dll
+C:\Users\mitid\source\repos\ProektBurzoRisuvane\ProektBurzoRisuvane\obj\Debug\net8.0\refint\ProektBurzoRisuvane.dll
+C:\Users\mitid\source\repos\ProektBurzoRisuvane\ProektBurzoRisuvane\obj\Debug\net8.0\ProektBurzoRisuvane.pdb
+C:\Users\mitid\source\repos\ProektBurzoRisuvane\ProektBurzoRisuvane\obj\Debug\net8.0\ProektBurzoRisuvane.genruntimeconfig.cache
+C:\Users\mitid\source\repos\ProektBurzoRisuvane\ProektBurzoRisuvane\obj\Debug\net8.0\ref\ProektBurzoRisuvane.dll
